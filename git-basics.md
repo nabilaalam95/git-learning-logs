@@ -9,4 +9,5 @@
 - git mv
 - git log (--patch/ --stat/ --pretty)
 - git log --pretty=format
+- git checkout
 
