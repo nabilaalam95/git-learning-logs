@@ -12,3 +12,6 @@
 - git checkout
 - git remote add origin <> (push)
 - git push -u origin main
+- git checkout -b <name>(branch)
+- git branch
+- git pull origin main (pull)
